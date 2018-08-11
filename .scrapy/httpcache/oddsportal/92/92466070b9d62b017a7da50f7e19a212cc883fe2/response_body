@@ -1,0 +1,20 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">Sitemap: http://www.oddsportal.com/sitemap.xml
+
+User-agent: *
+Disallow: /redirect/
+Disallow: /feed/
+Disallow: /ajax-widget/
+Disallow: /terms/
+Disallow: /contact/
+Disallow: /privacy-policy/
+Disallow: /search/
+
+User-agent: SmartViper
+Disallow: /
+
+User-agent: Blekkobot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+</pre></body></html>
